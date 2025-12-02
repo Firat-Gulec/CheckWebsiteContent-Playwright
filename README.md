@@ -11,4 +11,3 @@ Playwright is a fast and reliable end-to-end testing library that supports Chrom
 * **Docker Isolation:** Runs Playwright and all its dependencies inside a Docker container, preventing dependency conflicts on the host machine.
 * **Nagios-Compatible Output:** Returns `OK` or `CRITICAL` statuses with a detailed message following Nagios standards.
 
-## 📁 Project Structure
